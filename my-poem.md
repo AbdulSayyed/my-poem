@@ -15,3 +15,7 @@ Each is trying to convince to itself and to the other side, to reduce this disso
 Can fMRI studies of groups belonging to different nations help understanding more about the nation's pattern of thinking ?
 
 The Cognitive dissonance (contradiction) refers to a situation where a subject faces conflicting attitudes, beliefs and behaviours in oneself. These conflicting situations do not have to be contradictory beliefs but a simple choice between either two good options or bad options can create discomforts. In a healthy population reduction of dissonance occurs naturally as a mechanism to deal with the tension by adjusting the importance of one idea to make it less dissonant (Festinger,1957)[^1]. Studies show that the choice between two options results in activation of  left anterior insula (aINS) and in dorsal anterior cingulate cortex (dACC). These areas are often linked to cognitive conflict and to aversive emotional arousal. Another area found to be activated is posterior cingulate cortex (pCC) a region linked to self-processing (Kitayama, Chua, Tomposon, Han, 2012)[^2].
+
+## Objectives: 2.1
+
+This study initially aims to first find above mentioned regions followed by an attempt to find any possible relevance to orbitofrontal cortex (oFC) area often associated with patients suffering from Obsessive-compulsive-disorder (OCD). The study can also be used among participants belonging to different local groups to find any significant change just because of being in different group and later on between nations.
