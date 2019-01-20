@@ -35,3 +35,5 @@ Higher Education Institution (HEI) Research Ethics Committees ( REC) guidelines 
 At the first visit, a screening form is given to the participant to be filled out all necessary medical related question which is essential for the validity of the experiment. Once suitability is confirmed, mutual consent is agreed then next booking for the 
 
 All participants are invited on the same day of the experiment, they are verbally instructed not to have any metal device with them of whatsoever nature and lastly instructed not to move the head in order to get the good results. The procedure of pressing the button and answering the question is explained once again. Each participant is paid £80.00 in total for the two visits after the second visit.
+
+## fMRI acquisation
