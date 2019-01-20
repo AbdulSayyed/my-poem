@@ -23,7 +23,3 @@ This study initially aims to first find above mentioned regions followed by an a
 ## Hypothesis: 2.2
 
 When deciding between two choices which are already creating confusion in nations' mind, some activity is expected to occur in both region involved in decision making and cognitive dissonance as well as in another region that should give us some clue about prolonging the dissonance effects, which may be overlapping with other known mental issues.
-
-## Ethics: 2.3
-
-Higher Education Institution (HEI) Research Ethics Committees ( REC) guidelines are followed to conduct the experiment, informed consent is obtained from all the participants. Clear instructions are given to them and made sure that they understand what is involved in fMRI experiment and there are no biases present towards the trial.
