@@ -26,3 +26,5 @@ When deciding between two choices which are already creating confusion in nation
 
 ## Ethics 2.3 
 
+Higher Education Institution (HEI) Research Ethics Committees ( REC) guidelines are followed to conduct the experiment, informed consent is obtained from all the participants. Clear instructions are given to them and made sure that they understand what is involved in fMRI experiment and there are no biases present towards the trial.
+
