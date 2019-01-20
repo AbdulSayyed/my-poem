@@ -28,3 +28,9 @@ When deciding between two choices which are already creating confusion in nation
 
 Higher Education Institution (HEI) Research Ethics Committees ( REC) guidelines are followed to conduct the experiment, informed consent is obtained from all the participants. Clear instructions are given to them and made sure that they understand what is involved in fMRI experiment and there are no biases present towards the trial.
 
+## Participants: 2.4
+
+30 healthy participants of age ranging 20-40, male and female (M=29.91, SD= 5.77) are recruited through  advertisements using bill boards for the above said fMRI experiment. Once an interested email is received, the preliminary questionnaire is sent to find out the suitability of the participants. They are also sent two video links to get familiarize about the fMRI experiment. If the suitability criteria are achieved, second mail is sent to the participant to make the first booking for their personal visit to the fMRI facility area. This meeting is arranged to give them an option for more informed decision about participating in the experiment and personally meeting them to verify their suitability to avoid any eleventh-hour disappointment. 
+
+At the first visit, a screening form is given to the participant to be filled out all necessary medical related question which is essential for the validity of the experiment. Once suitability is confirmed, mutual consent is agreed then next booking for the 
+
