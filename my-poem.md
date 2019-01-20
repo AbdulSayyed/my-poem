@@ -19,3 +19,7 @@ The Cognitive dissonance (contradiction) refers to a situation where a subject f
 ## Objectives: 2.1
 
 This study initially aims to first find above mentioned regions followed by an attempt to find any possible relevance to orbitofrontal cortex (oFC) area often associated with patients suffering from Obsessive-compulsive-disorder (OCD). The study can also be used among participants belonging to different local groups to find any significant change just because of being in different group and later on between nations.
+
+## Hypothesis: 2.2
+
+When deciding between two choices which are already creating confusion in nations' mind, some activity is expected to occur in both region involved in decision making and cognitive dissonance as well as in another region that should give us some clue about prolonging the dissonance effects, which may be overlapping with other known mental issues.
