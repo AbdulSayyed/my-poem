@@ -23,3 +23,6 @@ This study initially aims to first find above mentioned regions followed by an a
 ## Hypothesis: 2.2
 
 When deciding between two choices which are already creating confusion in nations' mind, some activity is expected to occur in both region involved in decision making and cognitive dissonance as well as in another region that should give us some clue about prolonging the dissonance effects, which may be overlapping with other known mental issues.
+
+## Ethics 2.3 
+
